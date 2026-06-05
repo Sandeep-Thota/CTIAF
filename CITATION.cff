@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "CTIAF: Cross-Platform Trust and Intent Alignment Framework"
+authors:
+  - family-names: Thota
+    given-names: Sandeep Kumar
+preferred-citation:
+  type: article
+  title: "A Scalable Graph Neural Framework for Cross-Platform Trust and Intent Modeling in Large Language Model Systems"
+  journal: "Computers and Electrical Engineering"
+  year: 2026
