@@ -1,0 +1,8 @@
+Setting,Split,Intent_F1,Trust_rho
+Full_test_reference,-,0.814,0.575
+Temporal,train<2025 / test>=2025,0.802,0.561
+Top_language,English,0.826,0.582
+Top_language,non-English_top5_avg,0.781,0.539
+Domain,coding,0.808,0.547
+Domain,factual,0.829,0.589
+Domain,creative,0.793,0.524

@@ -1,0 +1,11 @@
+Method,Intent_F1_mean,Intent_F1_std,Trust_rho_mean,Trust_rho_std
+BERTScore,0.642,0.021,0.351,0.03
+G-Eval,0.679,0.019,0.402,0.028
+RAGAS,0.661,0.02,0.389,0.029
+SelfCheckGPT,0.634,0.022,0.338,0.031
+Sequential_LSTM,0.701,0.018,0.471,0.026
+Flat_Transformer,0.738,0.017,0.486,0.025
+TrustLLM-Eval,0.726,0.018,0.482,0.027
+LLM-as-Judge,0.732,0.018,0.487,0.026
+ConvGAT,0.751,0.016,0.498,0.024
+CTIAF,0.782,0.015,0.521,0.022

@@ -1,0 +1,11 @@
+Comparison_CTIAF_vs,Wilcoxon_p,Cohens_d,CI95_low,CI95_high
+BERTScore,<0.001,1.94,0.118,0.139
+G-Eval,<0.001,1.62,0.085,0.107
+UniEval,<0.001,1.77,0.097,0.121
+RAGAS,<0.001,1.71,0.104,0.128
+SelfCheckGPT,<0.001,1.9,0.131,0.153
+Sequential_LSTM,<0.001,1.18,0.058,0.079
+Flat_Transformer,<0.001,0.97,0.041,0.061
+TrustLLM-Eval,<0.001,1.12,0.041,0.061
+LLM-as-Judge,<0.001,1.04,0.034,0.054
+ConvGAT,<0.001,0.82,0.024,0.046

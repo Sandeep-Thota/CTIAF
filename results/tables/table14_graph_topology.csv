@@ -1,0 +1,5 @@
+Graph_configuration,Edge_types,Trust_Spearman_rho
+Sequential_only,E_seq,0.54
+Fully_connected,all_pairs,0.551
+Sequential_plus_referential,E_seq+E_ref,0.57
+Proposed_DTG,E_seq+E_ref+E_topic,0.575

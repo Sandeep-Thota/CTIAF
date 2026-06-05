@@ -1,0 +1,6 @@
+Platform,n_test_human_annotated,CTIAF_Spearman_rho
+ChatGPT,1629,0.236
+Perplexity,417,0.45
+Grok,273,0.596
+Gemini,182,0.301
+Claude,99,0.121

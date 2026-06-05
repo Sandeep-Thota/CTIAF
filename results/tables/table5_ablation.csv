@@ -1,0 +1,7 @@
+Configuration,Spearman_rho,Delta_rho
+CTIAF_full,0.575,
+minus_TARS,0.573,-0.002
+minus_CPAE,0.18,-0.395
+minus_referential_edges,0.57,-0.005
+minus_DTG_flat_proxy,0.54,-0.035
+CPAE_kept_TARS_randomized,0.389,-0.186
